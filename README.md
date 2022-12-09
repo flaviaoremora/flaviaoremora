@@ -4,8 +4,7 @@
 <p><em>Estudiante de Economía en la <a href="https://www.pucp.edu.pe/">PUCP </a><img src="https://media0.giphy.com/media/HiIBVUzpjYbEs985mp/200w.gif" width="30"></br>Practicante de Auditoría de Procesos de Inversión en <a href="https://www.prima.com.pe/public-zone/">PRIMA AFP </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<div>
- <p>
+
 - 🌱 Manejo a nivel básico-intermedio diversos programas, entre ellos, EViews, Stata, SQL, R y Python. Sigo aprendiendo!
 - 💼 Mi perfil profesional está orientado a la microeconomía. Entre mis competencias:
    - Trabajo en equipo
@@ -18,8 +17,7 @@
 <code><img height="20" src="https://www3.technologyevaluation.com/getattachment/9b7c8017-6430-5cf6-9a92-543c152dcacf/logo.png?source=tw2&ext=.png"></code>
 <code><img height="20" src="https://e7.pngegg.com/pngimages/105/17/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png"></code>
-</p>
-</div>
+
 
 
 
