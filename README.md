@@ -1,7 +1,7 @@
-<h2> Hola, soy Flavia!
+<h2> Hola, soy Flavia!🏹
 <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://camo.githubusercontent.com/bfe24c7f7db9b843e8602869974fe2d022441bb5583749ae2f84a85983fa52d4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966)" width="50"></h2>
 
-<p><em>Estudiante de Economía en la <a href="ttps://www.pucp.edu.pe/">PUCP</a><img src="https://media0.giphy.com/media/HiIBVUzpjYbEs985mp/200w.gif" width="30"></br>Practicante de Auditoría de Procesos de Inversión en t <a href="https://www.prima.com.pe/public-zone/">PRIMA AFP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Estudiante de Economía en la <a href="https://www.pucp.edu.pe/">PUCP </a><img src="https://media0.giphy.com/media/HiIBVUzpjYbEs985mp/200w.gif" width="30"></br>Practicante de Auditoría de Procesos de Inversión en t <a href="https://www.prima.com.pe/public-zone/">PRIMA AFP </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -11,7 +11,7 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Conecta conmigo </h3>
 
 <p align="center">
 
