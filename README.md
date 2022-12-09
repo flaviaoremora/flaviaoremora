@@ -7,7 +7,7 @@
 <div>
  <p>
 🌱 Manejo a nivel básico-intermedio diversos programas, entre ellos, EViews, Stata, SQL, R y Python.
-   Sigo aprendiendo! <img src="https://i.gifer.com/YMXq.gif" width="30"> 
+   Sigo aprendiendo! </a><img src="https://i.gifer.com/YMXq.gif" width="30"> 
 
    
 </p>
