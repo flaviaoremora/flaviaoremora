@@ -6,16 +6,18 @@
 
 <div>
  <p>
-🌱 Manejo a nivel básico-intermedio diversos programas, entre ellos, EViews, Stata, SQL, R y Python. Sigo aprendiendo!
-
+- 🌱 Manejo a nivel básico-intermedio diversos programas, entre ellos, EViews, Stata, SQL, R y Python. Sigo aprendiendo!
+- 💼 Mi perfil profesional está orientado a la microeconomía. Entre mis competencias:
+   - Trabajo en equipo
+   - Capacidad para aprender rápido
+   - Capacidad de iniciativa y resolución de problemas
+   - Conocimientos sobre redes sociales y edición digital
   
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnAJR-cVpUaCAm8_mAlx1LBrPIp7leb6JOMCvnMwMpu2uYjZ3LnS9sHHzK9LCYAz8nXDo&usqp=CAU"></code>
 <code><img height="20" src="https://www3.technologyevaluation.com/getattachment/9b7c8017-6430-5cf6-9a92-543c152dcacf/logo.png?source=tw2&ext=.png"></code>
 <code><img height="20" src="https://e7.pngegg.com/pngimages/105/17/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png"></code>
-
-   
 </p>
 </div>
 
@@ -29,7 +31,7 @@
 <a href="mailto:flavia.ore@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-flavia.ore@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
 </p>
 
-### Github Stats
+### 📈 Github Stats
 
 [![Flavia Oré GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviaoremora&show_icons=true&count_private=true)](https://github.com/flaviaoremora)
 
