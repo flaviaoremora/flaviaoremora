@@ -4,6 +4,13 @@
 <p><em>Estudiante de Economía en la <a href="https://www.pucp.edu.pe/">PUCP </a><img src="https://media0.giphy.com/media/HiIBVUzpjYbEs985mp/200w.gif" width="30"></br>Practicante de Auditoría de Procesos de Inversión en <a href="https://www.prima.com.pe/public-zone/">PRIMA AFP </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<div>
+ <p>
+🌱 Manejo a nivel básico-intermedio diversos programas, entre ellos, EViews, Stata, SQL, R y Python.
+
+   
+</p>
+</div>
 
 ### Github Stats
 
